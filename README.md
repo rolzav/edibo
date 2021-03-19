@@ -1,3 +1,3 @@
 # wysiwyg
 
-md - markup document
+.md - markup document
