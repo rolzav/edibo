@@ -1,2 +1,3 @@
-# edibo
-elektroniskā klade
+# wysiwyg
+
+md - markup document
