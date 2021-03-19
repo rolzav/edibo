@@ -1,0 +1,10 @@
+#!/bin/bash
+if [ $# == 1 ]
+then
+git config --global user.email rolands@demo.id.lv
+git config --global user.name rolzav
+git add .
+git status
+git commit -m $1
+git push origin main
+fi
